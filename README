@@ -1,0 +1,19 @@
+Checkers game made as part of Artificial Intelligence course at IIT Ropar.
+
+Allowed Modes:
+
+1) Human vs Human
+2) Human vs Computer
+3) Computer vs Computer
+
+To run follow these steps.
+
+Step 1: Compile the source code
+javac checkers/*.java
+
+Step 2: Run the main class
+java checkers/Checkers
+
+In the computer vs computer mode the game results in a draw since each player
+plays optimally. Therefore the game goes on indefinitely. The user needs to 
+manually kill the game to stop it.
